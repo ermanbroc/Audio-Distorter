@@ -31,4 +31,4 @@ end
 sound(audio,fs)
 
 % Remove '%' below when ready to write to output
-% audiowrite(newfilename,newaudio,Fs)
+% audiowrite(newfilename, audio, fs)
